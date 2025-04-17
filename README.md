@@ -1,4 +1,3 @@
-# qsp-internship
 
 # QSpiders Internship Training Repository
 
